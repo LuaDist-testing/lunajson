@@ -1,17 +1,9 @@
--- This file was automatically generated for the LuaDist project.
-
 package = "lunajson"
-version = "1.0-0"
--- LuaDist source
+version = "1.1-0"
 source = {
-  tag = "1.0-0",
-  url = "git://github.com/LuaDist-testing/lunajson.git"
+	url = "git://github.com/grafi-tt/lunajson.git",
+	tag = "1.1"
 }
--- Original source
--- source = {
--- 	url = "git://github.com/grafi-tt/lunajson.git",
--- 	tag = "1.0"
--- }
 description = {
 	summary = "A strict and fast JSON parser/decoder/encoder written in pure Lua",
 	detailed = [[
